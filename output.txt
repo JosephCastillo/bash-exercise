@@ -1,0 +1,41 @@
+DATE: Wed Sep 16 16:29:12 -05 2026
+USER: joseph
+HOSTNAME: DESKTOP-3PPVOK0
+ ✅ /usr/lib/modules/6.18.33.2-microsoft-standard-WSL2 is 0% full.
+ ✅ /mnt/wsl is 1% full.
+ 🚨 Warning: /usr/lib/wsl/drivers is 75% full.
+ ✅ / is 1% full.
+ ✅ /mnt/wslg is 1% full.
+ ✅ /usr/lib/wsl/lib is 0% full.
+ ✅ /init is 1% full.
+ ✅ /run is 1% full.
+ ✅ /run/lock is 0% full.
+ ✅ /run/shm is 0% full.
+ ✅ /mnt/wslg/versions.txt is 1% full.
+ ✅ /mnt/wslg/doc is 1% full.
+ 🚨 Warning: /mnt/c is 75% full.
+ ✅ /run/user/1000 is 1% full.
+
+🔚 FIN DE LA VALIDACIÓN DE ESPACIO EN DISCO 
+
+DATE: Wed Sep 16 16:29:46 -05 2026
+USER: joseph
+HOSTNAME: DESKTOP-3PPVOK0 
+
+ ✅ /usr/lib/modules/6.18.33.2-microsoft-standard-WSL2 is 0% full.
+ ✅ /mnt/wsl is 1% full.
+ 🚨 Warning: /usr/lib/wsl/drivers is 75% full.
+ ✅ / is 1% full.
+ ✅ /mnt/wslg is 1% full.
+ ✅ /usr/lib/wsl/lib is 0% full.
+ ✅ /init is 1% full.
+ ✅ /run is 1% full.
+ ✅ /run/lock is 0% full.
+ ✅ /run/shm is 0% full.
+ ✅ /mnt/wslg/versions.txt is 1% full.
+ ✅ /mnt/wslg/doc is 1% full.
+ 🚨 Warning: /mnt/c is 75% full.
+ ✅ /run/user/1000 is 1% full.
+
+🔚 FIN DE LA VALIDACIÓN DE ESPACIO EN DISCO 
+
